@@ -1,0 +1,10 @@
+C:\dev\projects\DatingApp\api.websrv\obj\Debug\netcoreapp2.0\api.websrv.csproj.CoreCompileInputs.cache
+C:\dev\projects\DatingApp\api.websrv\obj\Debug\netcoreapp2.0\api.websrv.AssemblyInfoInputs.cache
+C:\dev\projects\DatingApp\api.websrv\obj\Debug\netcoreapp2.0\api.websrv.AssemblyInfo.cs
+C:\dev\projects\DatingApp\api.websrv\bin\Debug\netcoreapp2.0\api.websrv.deps.json
+C:\dev\projects\DatingApp\api.websrv\bin\Debug\netcoreapp2.0\api.websrv.runtimeconfig.json
+C:\dev\projects\DatingApp\api.websrv\bin\Debug\netcoreapp2.0\api.websrv.runtimeconfig.dev.json
+C:\dev\projects\DatingApp\api.websrv\bin\Debug\netcoreapp2.0\api.websrv.dll
+C:\dev\projects\DatingApp\api.websrv\bin\Debug\netcoreapp2.0\api.websrv.pdb
+C:\dev\projects\DatingApp\api.websrv\obj\Debug\netcoreapp2.0\api.websrv.dll
+C:\dev\projects\DatingApp\api.websrv\obj\Debug\netcoreapp2.0\api.websrv.pdb
